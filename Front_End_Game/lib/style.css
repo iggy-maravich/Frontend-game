@@ -1,0 +1,40 @@
+/*
+style the div cointainer with a size for each container and a stroke and background color  
+use flex-box to put container in to 3 rows x 3 columns. 
+
+ */
+
+.randomButton {
+  width: 80px;
+  height: 10px;
+  background: #ff0202;
+  color: #0c0c0c;
+  border-radius: 10px;
+  text-align: center;
+  line-height: 100px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.word {
+  width: 500px;
+  height: 300px;
+}
+
+5
+
+.wordRow {
+  min-width: 400px;
+  min-height: 200px;
+  background-color: #ff0202;
+
+}
+
+
+
+
+
+
+
+
+
+
