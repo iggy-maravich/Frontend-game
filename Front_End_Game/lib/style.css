@@ -20,17 +20,23 @@ use flex-box to put container in to 3 rows x 3 columns.
   height: 300px;
 }
 
-5
 
-.wordRow {
+
+.wordrow {
   min-width: 400px;
   min-height: 200px;
   background-color: #ff0202;
 
 }
 
+.letterlist {
+  display: flex;
+}
 
+.letter {
+  display: inline-flex;
 
+}
 
 
 
