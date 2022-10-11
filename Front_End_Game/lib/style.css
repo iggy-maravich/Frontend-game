@@ -4,7 +4,7 @@ use flex-box to put container in to 3 rows x 3 columns.
 
  */
 
-.randomButton {
+.wordButton {
   width: 80px;
   height: 10px;
   background: #ff0202;
@@ -18,26 +18,25 @@ use flex-box to put container in to 3 rows x 3 columns.
 .word {
   width: 500px;
   height: 300px;
+  
 }
 
 
 
-.wordrow {
+.wordhold {
   min-width: 400px;
   min-height: 200px;
   background-color: #ff0202;
 
 }
 
-.letterlist {
-  display: flex;
+.randomword {
+  display: inline-flex;  
 }
 
-.letter {
-  display: inline-flex;
-
+.li {
+  background-color: aquamarine;
 }
-
 
 
 
